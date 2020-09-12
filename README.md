@@ -1,41 +1,53 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Manish's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://www.facebook.com/er.manishshrivastava">
+  <img align="left" alt="Manish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/geeky_abhiz">
+<a href="https://twitter.com/manish_channel">
   <img align="left" alt="Manish Shrivastava | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/er.manishshrivastava/">
-  <img align="left" alt="Manish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/er.manishshrivastava">
-  <img align="left" alt="Manish's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/er.manishshrivastava/">
+<a href="https://www.instagram.com/ceo_manish_official/">
   <img align="left" alt="Manish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Manish's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://www.linkedin.com/in/rubyarchitect/">
+  <img align="left" alt="Manish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/er.manishshrivastava/">
-  <img align="left" alt="Manish's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="http://stackoverflow.com/users/1133932/manish-shrivastava">
+  <img align="left" alt="Manish's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://github.com/manish-shrivastava">
+  <img align="left" alt="Manish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="http://www.flickr.com/photos/manish-shrivastava">
+  <img align="left" alt="Manish's Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />
+</a>
+<a href="https://www.deviantart.com/manish-shrivastava">
+  <img align="left" alt="Manish's Deviantart" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deviantart.svg" />
+</a>
+<a href="https://www.behance.net/manishshrivastava">
+  <img align="left" alt="Manish's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
+<a href="https://vimeo.com/manishshrivastava">
+  <img align="left" alt="Manish's Vimeo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vimeo.svg" />
+</a>
+<a href="http://www.manishshrivastava.tumblr.com">
+  <img align="left" alt="Manish's Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=er.manishshrivastava.er.manishshrivastava)
 
 <br />
 
-Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@rails](https://github.com/rails), Working at Clecotech 👨🏽‍💼[@BITSoC](https://clecotech.com/) and a Former Project Manager at InfoBeans [@InfoBeans Indore](https://www.infobeans.com/). Beside's programming, I enjoy eating food, photography and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/er.manishshrivastava/er.manishshrivastava/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+  <img align="right" alt="GIF" src="https://github.com/er.manish-shrivastava/er.manishshrivastava/blob/master/code.gif?raw=true" width="500" height="320" />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning PWA Node, and React Native;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📝[Resume](https://manish-shrivastava.github.io/Manish_Shrivastava_Resume.pdf)
 
 **Languages and Tools:**  
 
@@ -53,19 +65,17 @@ Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Develo
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++          16 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 % 
-Markdown     5 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-JavaScript   3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-HTML         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+C++          16 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 %
+Markdown     5 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+JavaScript   3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+HTML         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 <!--END_SECTION:waka-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=er.manishshrivastava&show_icons=true&theme=gotham" alt="er.manishshrivastava" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manish-shrivastava&show_icons=true&theme=gotham" alt="manish-shrivastava" />
 
 </details>
-
-
