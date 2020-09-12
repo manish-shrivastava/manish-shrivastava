@@ -46,28 +46,28 @@ Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Develo
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning PWA Node, and React Native;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
+- 📫 How to reach me: [@manish_channel](https://twitter.com/manish_channel);
 - 📝[Resume](https://manish-shrivastava.github.io/Manish_Shrivastava_Resume.pdf)
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++          16 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 %
-Markdown     5 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-JavaScript   3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Ruby         16 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 %
+JavaScript   5 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+CSS          3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
 HTML         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
