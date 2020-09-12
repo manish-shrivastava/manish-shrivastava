@@ -39,13 +39,13 @@
 
 Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@rails](https://github.com/rails), Working at Clecotech 👨🏽‍💼[@BITSoC](https://clecotech.com/) and a Former Project Manager at InfoBeans [@InfoBeans Indore](https://www.infobeans.com/). Beside's programming, I enjoy eating food, photography and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/er.manish-shrivastava/er.manishshrivastava/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/manish-shrivastava/manish-shrivastava/master/code.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning PWA Node, and React Native;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on ROR, React :ok_hand: :fire: ;
+- 🌱 I’m currently learning PWA Node, and React Native :sunglasses:;
+- 💬 Ask me about anything, I am happy to help :heartbeat:;
 - 📫 How to reach me: [@manish_channel](https://twitter.com/manish_channel);
 - 📝[Resume](https://manish-shrivastava.github.io/Manish_Shrivastava_Resume.pdf)
 
