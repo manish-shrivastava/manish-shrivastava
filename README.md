@@ -37,7 +37,7 @@
 
 <br />
 
-Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@rails](https://github.com/rails), Working at Clecotech 👨🏽‍💼[@Clecotech](https://clecotech.com/) and a Former Project Manager at InfoBeans [@InfoBeans Indore](https://www.infobeans.com/). Beside's programming, I enjoy eating food, photography and traveling.
+Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@rails](https://github.com/rails), Working at Clecotech 👨🏽‍💼[@Clecotech](https://clecotech.com/) and a Former Project Manager at InfoBeans [@InfoBeans](https://www.infobeans.com/). Beside's programming, I enjoy taking Coffee, Photography and Traveling.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/manish-shrivastava/manish-shrivastava/master/code.gif" width="500" height="320" />
 
@@ -65,8 +65,8 @@ Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Develo
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Ruby         16 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 %
-JavaScript   5 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Ruby         22 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 %
+JavaScript   6 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
 CSS          3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
 HTML         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
