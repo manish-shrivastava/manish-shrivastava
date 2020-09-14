@@ -37,7 +37,7 @@
 
 <br />
 
-Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@rails](https://github.com/rails), Working at Clecotech 👨🏽‍💼[@BITSoC](https://clecotech.com/) and a Former Project Manager at InfoBeans [@InfoBeans Indore](https://www.infobeans.com/). Beside's programming, I enjoy eating food, photography and traveling.
+Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@rails](https://github.com/rails), Working at Clecotech 👨🏽‍💼[@Clecotech](https://clecotech.com/) and a Former Project Manager at InfoBeans [@InfoBeans Indore](https://www.infobeans.com/). Beside's programming, I enjoy eating food, photography and traveling.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/manish-shrivastava/manish-shrivastava/master/code.gif" width="500" height="320" />
 
