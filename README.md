@@ -29,7 +29,7 @@
 <a href="https://vimeo.com/manishshrivastava">
   <img align="left" alt="Manish's Vimeo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vimeo.svg" />
 </a>
-<a href="http://www.manishshrivastava.tumblr.com">
+<a href="https://manishshrivastava-blog.tumblr.com">
   <img align="left" alt="Manish's Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />
 </a>
 
