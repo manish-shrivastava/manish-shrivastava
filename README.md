@@ -8,10 +8,10 @@
 <a href="https://www.instagram.com/ceo_manish_official/">
   <img align="left" alt="Manish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rubyarchitect/">
+<a href="https://www.linkedin.com/in/ceomanish/">
   <img align="left" alt="Manish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="http://stackoverflow.com/users/1133932/manish-shrivastava">
+<a href="https://stackoverflow.com/users/1133932/manish-shrivastava">
   <img align="left" alt="Manish's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://github.com/manish-shrivastava">
