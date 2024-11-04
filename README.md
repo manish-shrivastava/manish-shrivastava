@@ -43,8 +43,8 @@ Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Develo
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on ROR, React :ok_hand: :fire: ;
-- 🌱 I’m currently learning PWA Node, and React Native :sunglasses:;
+- 👨🏽‍💻 I’m currently working on ROR, React and React Native :ok_hand: :fire: ;
+- 🌱 I’m currently learning PWA Node, and Machine Learning (AI) :sunglasses:;
 - 💬 Ask me about anything, I am happy to help :heartbeat:;
 - 📫 How to reach me: [@manish_channel](https://twitter.com/manish_channel);
 - 📝[Resume](https://manish-shrivastava.github.io/Manish_Shrivastava_Resume.pdf)
