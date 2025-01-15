@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/ceo_manish_official/">
   <img align="left" alt="Manish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ceomanish/">
+<a href="https://www.linkedin.com/in/manishhome/">
   <img align="left" alt="Manish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/1133932/manish-shrivastava">
