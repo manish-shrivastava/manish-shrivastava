@@ -1,4 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.codementor.io/@manishshrivastava">
+  <img align="left" alt="Manish's Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01f569ec5d2bb69dd9">
+  <img align="left" alt="Manish's Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />
+</a>
 <a href="https://www.facebook.com/er.manishshrivastava">
   <img align="left" alt="Manish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -38,6 +44,8 @@
 <br />
 
 Hi, I'm [Manish Shrivastava](https://manishshrivastava.com), a Full Stack Developer 🚀 from India, currently, I'm working at Clecotech 👨🏽‍💼[@Clecotech](https://clecotech.com/) and a Former Project Manager at InfoBeans [@InfoBeans](https://www.infobeans.com/). Beside's programming, I enjoy taking Coffee, Photography and Traveling.
+
+Hire me through [Codementor](https://www.codementor.io/@manishshrivastava) OR [Upwork](https://www.upwork.com/freelancers/~01f569ec5d2bb69dd9)
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/manish-shrivastava/manish-shrivastava/master/code.gif" width="500" height="320" />
 
